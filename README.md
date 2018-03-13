@@ -48,3 +48,8 @@ curl "https://ptsdk.llsapp.com/token/${APP_ID}" -d "{\"nonce\": \"${NONCE}\", \"
 
 请开发者根据自身情况选用任意合适的编程语言/库实现以上 bash 脚本逻辑即可获取 token。
 
+## 客户端接入文档
+
+iOS: [https://github.com/lingochamp/PTSDK-iOS]
+
+Android: [https://github.com/lingochamp/PTSDK-Android]
